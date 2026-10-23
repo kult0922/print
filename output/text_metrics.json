@@ -1,0 +1,32 @@
+{
+  "measurements": [
+    {
+      "text": "RSOP Season 6 Champion",
+      "width_mm": 80.814,
+      "height_mm": 5.376,
+      "z_min_mm": 24.348,
+      "z_max_mm": 29.724,
+      "minimum_disconnected_contour_gap_mm": 0.392
+    },
+    {
+      "text": "Nikko",
+      "width_mm": 34.155,
+      "height_mm": 8.602,
+      "z_min_mm": 14.296,
+      "z_max_mm": 22.898,
+      "minimum_disconnected_contour_gap_mm": 0.783
+    },
+    {
+      "text": "2026/04-10",
+      "width_mm": 35.16,
+      "height_mm": 4.527,
+      "z_min_mm": 8.477,
+      "z_max_mm": 13.004,
+      "minimum_disconnected_contour_gap_mm": 0.657
+    }
+  ],
+  "notes": [
+    "Font geometry measurements only; not a slicer or physical print test.",
+    "The title includes an i dot-to-stem vertical gap of about 0.39 mm. Use the supplied print sample and 0.16 mm layers."
+  ]
+}

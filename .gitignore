@@ -1,0 +1,7 @@
+.tools/
+__pycache__/
+output/*.log
+output/*.blend*
+output/assembled_v*.png
+output/nikko_preview_v*.html
+output/nikko_trophy_v*.zip
